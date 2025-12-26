@@ -1,6 +1,6 @@
 Política de Privacidade
 
-O aplicativo Desculpa Não respeita a privacidade dos seus usuários.
+O aplicativo Desculpa Não, respeita a privacidade dos seus usuários.
 
 Este aplicativo não coleta, armazena ou compartilha informações pessoais identificáveis, como nome, e-mail ou telefone.
 
